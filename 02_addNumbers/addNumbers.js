@@ -4,7 +4,8 @@ function addNumbers() {
 
   let result;
 
-  result = "a" + "b"; // <------ EDIT THIS LINE
+  // Delete qoutation marks to change a , b from strings to a variable
+  result = a + b; // <------ EDIT THIS LINE
 
   return result;
 }
