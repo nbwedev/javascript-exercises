@@ -1,4 +1,4 @@
-// Converted string values to correct numerical statement
+// Converted string values to correct numerical statement.
 const a = 1 - 1; // Freebie!!! This is the answer to "one minus one"
 const b = 1 + 8;
 const c = 22 * 3;
